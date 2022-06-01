@@ -60,3 +60,4 @@ forever(function () {
         chicken.startEffect(effects.clouds)
     }
 })
+h
