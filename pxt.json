@@ -1,5 +1,5 @@
 {
-    "name": "jav",
+    "name": "Flappy-Bird - Copy",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -10,7 +10,8 @@
         "README.md",
         "assets.json",
         "tilemap.g.jres",
-        "tilemap.g.ts"
+        "tilemap.g.ts",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
@@ -22,5 +23,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
